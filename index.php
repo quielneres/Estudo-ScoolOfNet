@@ -1,2 +1,2 @@
 <?php
-include_once 'condicaoHtml.php';
+include_once 'funcoes.php';
